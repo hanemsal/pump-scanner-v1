@@ -1,8 +1,7 @@
-ccxt
-pandas
-numpy
-fastapi
-uvicorn
-psycopg2-binary
-python-telegram-bot
-requests
+ccxt==4.4.74
+pandas==2.2.3
+numpy==2.1.1
+fastapi==0.115.12
+uvicorn==0.34.0
+psycopg2-binary==2.9.10
+python-dotenv==1.0.1
