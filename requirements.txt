@@ -1,0 +1,8 @@
+ccxt
+pandas
+numpy
+fastapi
+uvicorn
+psycopg2-binary
+python-telegram-bot
+requests
